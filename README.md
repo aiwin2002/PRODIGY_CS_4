@@ -45,3 +45,11 @@ pip install pynput
     ```bash
      Press the Escape key to stop the script.    
      ```
+
+
+
+## Notes
+
+- **Ethical Use**: This script is for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Always obtain explicit consent before monitoring keyboard activity.
+- **Security**: Be cautious about where and how you use this script. Protect sensitive information and ensure it is used responsibly.
+    
